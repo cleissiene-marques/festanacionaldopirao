@@ -1,6 +1,6 @@
 export const SITE_URL = "https://festanacionaldopirao.com.br";
 export const SITE_NAME = "Festa NP IPTV";
-export const WHATSAPP_NUMBER = "5589981175065";
+export const WHATSAPP_NUMBER = "5511950599356";
 export const CONTACT_EMAIL = "contato@festanacionaldopirao.com.br";
 export const GA_MEASUREMENT_ID = "G-JJK0NWX4DS";
 
